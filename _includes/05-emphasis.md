@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have experience with *SQL*, *Python*, *Java*, and *JavaScript*. **Right now**, I'm learning how to use *GitHub*!
